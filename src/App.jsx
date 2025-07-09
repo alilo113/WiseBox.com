@@ -10,7 +10,7 @@ function App() {
         <input 
           type="text" 
           placeholder="Search for advice on anything..."
-          className="w-full h-full rounded-full bg-[#303134] text-white px-6
+          className="w-full h-full rounded-full bg-[#4D5156] text-white px-6
                      placeholder:text-lg sm:placeholder:text-xl lg:placeholder:text-2xl
                      placeholder:text-white"
         />
